@@ -47,7 +47,7 @@ The design flow follows a structured hardware‑design approach:
 
 ---
 
-# ✖️ Section 2 — 4‑Bit Multiplier Design
+# 🧩 Section 2 — 4‑Bit Multiplier Design
 
 ### **1. Understanding Multiplication**
 - Manual binary multiplication analysis.
@@ -69,7 +69,7 @@ The design flow follows a structured hardware‑design approach:
 
 ---
 
-# 🔢 Section 3 — 7‑Segment Display Decoder
+# 🧩 Section 3 — 7‑Segment Display Decoder
 
 ### **1. Decoder Design**
 - Converts a 4‑bit binary input (0–9) into a **7‑segment common‑cathode** output.
