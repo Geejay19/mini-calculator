@@ -7,6 +7,7 @@
 
 ---
 A simple FPGA‑based mini calculator designed to multiply two single‑digit numbers (0–9) and display the result on a dual 7‑segment display.  
+
 This project demonstrates digital design fundamentals using SystemVerilog, including adders, multipliers, and display decoders.
 
 ## 📘 Project Overview
