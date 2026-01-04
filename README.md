@@ -18,7 +18,7 @@ The design flow follows a structured hardware‑design approach:
 - Building basic arithmetic blocks (1‑bit and 8‑bit adders)
 - Constructing a 4‑bit multiplier using ripple‑carry adders
 - Designing a 7‑segment decoder for display output
-- (Optional) Integrating all modules into a complete top‑level calculator system
+- Integrating all modules into a complete top‑level calculator system
 ---
 # 🧩 Section 1 — 8‑Bit Adder Design
 
