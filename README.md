@@ -32,7 +32,7 @@ The design flow follows a structured hardware‑design approach:
 - Exhaustively tests all input combinations.
 - Includes the module using:  
   ```systemverilog
-  `include "one_bit_adder.sv"
+  include "one_bit_adder.sv"
   ```
 - File: `one_bit_adder_tb.sv`
 
